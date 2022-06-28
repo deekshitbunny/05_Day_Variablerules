@@ -1,0 +1,7 @@
+print('mds'.isidentifier())
+print('423'.isidentifier())
+print('-.412s'.isidentifier())
+print('85hi7j9'.isidentifier())
+print('g856 '.isidentifier())
+print(' 5uth__s'.isidentifier())
+print('_4s'.isidentifier())
